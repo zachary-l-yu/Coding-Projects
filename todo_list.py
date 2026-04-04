@@ -1,6 +1,6 @@
 # a to do list app (CLI)
 # started: April 3, 2026 (night)
-# ended: April 4, 2026 (arvo)
+# finished: April 4, 2026 (arvo)
 import time
 
 
