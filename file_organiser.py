@@ -1,6 +1,6 @@
 # a tool that organises files on my laptop
 # started: April 6, 2026 (morning)
-# finished: ???
+# finished: April 7, 2026 (morning)
 
 import os
 import shutil
