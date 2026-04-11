@@ -1,2 +1,2 @@
-# Coding-Projects
-A portfolio of all projects I have coded.
+# Python-Projects
+A portfolio of all projects I have coded in Python.
